@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Frutiger-LT';
+  src: url('./Assets//Fonts/FrutigerLTArabic55Roman.ttf') format('truetype');
+}
+
+body{
+  font-family: Frutiger-LT;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+.creative-bg{
+  background-image: url(Assets/creative-bg-01.png);
+  background-size: cover;
+}
+
+.creative-bg2{
+  background-image: url(Assets/creative-bg2-01.png);
+  background-size: cover;
+}
